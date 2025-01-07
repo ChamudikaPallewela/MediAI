@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765097550688",
+    "project_id": "mediai-4a01f",
+    "storage_bucket": "mediai-4a01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765097550688:android:49766292a151e7bc24b405",
+        "android_client_info": {
+          "package_name": "com.example.mediai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDlH0AR_OSosUjuC2SYMIMZcoosKtRhRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

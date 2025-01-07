@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_predict"
+        android:icon="@drawable/ic_search"
+        android:title="Identify" />
+    <item
+        android:id="@+id/navigation_chatbot"
+        android:icon="@drawable/ic_bot"
+        android:title="Chatbot" />
+    <item
+        android:id="@+id/navigation_remaning"
+        android:icon="@drawable/ic_calender"
+        android:title="Check Remaning Days" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+</menu>

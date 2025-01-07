@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1080dp"
+    android:height="1920dp"
+    android:viewportWidth="1080"
+    android:viewportHeight="1920">
+
+    <!-- Background Gradient -->
+    <group>
+        <path
+            android:fillColor="#DDEFF6"
+            android:pathData="M 0,0 L 1080,0 L 1080,1920 L 0,1920 Z" />
+        <path
+            android:fillColor="#C1E3F6"
+            android:pathData="M 0,0 C 300,200 780,200 1080,0 L 1080,0 L 1080,300 C 780,500 300,500 0,300 Z" />
+        <path
+            android:fillColor="#A4D7F6"
+            android:pathData="M 0,600 C 300,800 780,800 1080,600 L 1080,600 L 1080,900 C 780,1100 300,1100 0,900 Z" />
+        <path
+            android:fillColor="#87CBF6"
+            android:pathData="M 0,1200 C 300,1400 780,1400 1080,1200 L 1080,1200 L 1080,1500 C 780,1700 300,1700 0,1500 Z" />
+        <path
+            android:fillColor="#6BBFF6"
+            android:pathData="M 0,1800 C 300,2000 780,2000 1080,1800 L 1080,1800 L 1080,2100 C 780,2300 300,2300 0,2100 Z" />
+    </group>
+</vector>
