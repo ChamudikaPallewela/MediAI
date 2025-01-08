@@ -1,7 +1,7 @@
 
 # MediAI: AI-Powered Healthcare Management System  
 
-MediAI is an intelligent platform designed to enhance medication management, improve patient safety, and make healthcare more accessible. Leveraging cutting-edge technologies like Generative AI, Machine Learning, and QR Code tracking, MediAI bridges the gap between patients and efficient healthcare management.
+MediAI is an intelligent platform designed to enhance medication management, improve patient safety, and make healthcare more accessible. Leveraging cutting-edge technologies like Generative AI, Machine Learning and QR Code tracking, MediAI bridges the gap between patients and efficient healthcare management.
 
 ---
 
